@@ -1,3 +1,6 @@
+# Run in console
+#!conda install gdcm -c conda-forge -y
+
 import os
 import sys
 import numpy as np
