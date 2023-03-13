@@ -1,3 +1,5 @@
+# Convert DICOM Images to JPG and Resize
+
 Run from terminal
 OR
 in jupyter
